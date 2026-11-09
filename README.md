@@ -1,27 +1,35 @@
-<h3 align="center">Tech Stack</h3>
-
 <p align="center">
-  <table align="center">
+  <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; border-color: #d0d7de;">
     <tr>
-      <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React" /><br>
-        React
+      <td align="center" width="100">
+        <a href="https://react.dev/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/><br>
+          <b>React</b>
+        </a>
       </td>
-      <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" /><br>
-        Next.js
+      <td align="center" width="100">
+        <a href="https://nextjs.org/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=next" width="45" height="45" alt="Next.js"/><br>
+          <b>Next.js</b>
+        </a>
       </td>
-      <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind" /><br>
-        Tailwind
+      <td align="center" width="100">
+        <a href="https://tailwindcss.com/" target="_blank">
+          <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind"/><br>
+          <b>Tailwind</b>
+        </a>
       </td>
-      <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /><br>
-        HTML5
+      <td align="center" width="100">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+          <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML5"/><br>
+          <b>HTML5</b>
+        </a>
       </td>
-      <td align="center" width="90">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /><br>
-        CSS3
+      <td align="center" width="100">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+          <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS3"/><br>
+          <b>CSS3</b>
+        </a>
       </td>
     </tr>
   </table>
